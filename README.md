@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Nodejs
 - 📫 How to reach me **karibschool.web@gmail.com**
-- 👨‍💻 All of my projects are available at [https://labibweb.my.id/project](labibweb.my.id/project)
+- 👨‍💻 All of my projects are available at [labibweb.my.id/project](https://labibweb.my.id/project)
 
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdlabib&show_icons=true&theme=tokyonight)
 
