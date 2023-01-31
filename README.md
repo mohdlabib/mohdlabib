@@ -12,5 +12,3 @@
 <a href="https://trakteer.id/Gum8597" target="_blank">
   <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="32" style="border:0px;height:32px;" alt="Trakteer Saya">
 </a><br><br><br>
-
-<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/Gum8597/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
