@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Mohd Labib
 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m enjoy life & currently learning Bunjs
 - 📫 How to reach me **karibschool.web@gmail.com**
 - 👨‍💻 All of my projects are available at [labibweb.my.id/project](https://labibweb.my.id/project)
 
